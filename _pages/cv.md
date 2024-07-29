@@ -18,7 +18,7 @@ Work experience
 ======
 * Fall 2025: Student Research Assistant
   * Sound and Music Computing Lab @NUS
-  * Supervisor: Professor WANG Ye
+  * Supervisor: Associate Professor WANG Ye
 
 * July 2019 to Jan. 2024: Shenzhen Skyworth-RGB Electronics Co., LTD
   * Android Engineer
