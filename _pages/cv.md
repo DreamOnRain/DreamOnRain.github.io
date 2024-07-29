@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Fall 2025: Student Research Assistant
+* Fall 2024: Student Research Assistant
   * Sound and Music Computing Lab @NUS
   * Supervisor: Associate Professor WANG Ye
 
@@ -27,16 +27,18 @@ Work experience
   
 Skills
 ======
-* Machine Learning, Deep Learning, Speech Recognition, Pitch Dectection
+* Machine Learning, Deep Learning
+  * Speech Recognition, Pitch Detection
   * pytorch, speechbrain
 * Android
   * Android Framework
   * Android Recovery
-* Linux Shell
+  * Android Build
+* Linux Shell, Git
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+  {% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}
 
