@@ -54,6 +54,6 @@ Honor Awards
 Publications
 ======
   {% for post in site.publications reversed %}
-    [{{ post.title }}]({{ post.paperurl}})
+    <a href="{{ post.url }}">{{ post.title }}</a>
   {% endfor %}
 
